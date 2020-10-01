@@ -1,2 +1,2 @@
 # TitanicDianeTeodoro
-Kagglecompétition
+Kaggle compétition
