@@ -3,4 +3,4 @@ Kaggle competition « Digit Recognizer : Learn computer vision fundamentals with
 
 Main objective : correctly identify digits from a dataset of tens of thousands of handwritten images.
 
-Mounier Tebas Teodoro, Perron Riwan and Thierry Diane from EKAP’s master degree.
+Autors : Mounier Tebas Teodoro, Perron Riwan and Thierry Diane from EKAP’s master degree.
