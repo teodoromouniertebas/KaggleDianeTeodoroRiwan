@@ -1,4 +1,4 @@
 
-Kaggle competition « Titanic: Machine Learning from Disaster ». 
-Main objective : use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
-Mounier Tebas Teodoro, Peron Riwan and Thierry Diane from EKAP’s master degree.
+Kaggle competition « Digit Recognizer : Learn computer vision fundamentals with the famous MNIST data ». 
+Main objective : correctly identify digits from a dataset of tens of thousands of handwritten images.
+Mounier Tebas Teodoro, Perron Riwan and Thierry Diane from EKAP’s master degree.
